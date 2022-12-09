@@ -1,0 +1,27 @@
+{
+  "name": "first-project-node1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/crisl4ine.git"
+  },
+  "author": "Crislaine Siqueira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/crisl4ine/issues"
+  },
+  "homepage": "https://github.com/github.com/crisl4ine#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
